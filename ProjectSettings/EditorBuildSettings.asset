@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a78039343092a0a4994e5a05cf92386c
+  - enabled: 1
+    path: Assets/Scenes/StartCutscene.unity
+    guid: ecbf61988d2908645b849f9cda36ede4
+  - enabled: 1
+    path: Assets/Scenes/Hub.unity
+    guid: 104fe3d0a221b224daed6f902bd602e1
+  - enabled: 1
+    path: Assets/Scenes/TropicalZone.unity
+    guid: 73d203cfd825abb4f90fa2bcd7864d83
+  - enabled: 1
+    path: Assets/Scenes/JungleZone.unity
+    guid: 6ed0716af7ae801498cc80e752e5a9bc
+  - enabled: 1
+    path: Assets/Scenes/CityZone.unity
+    guid: 741ba8606e13a214aaff4e1eadeb4780
+  - enabled: 1
+    path: Assets/Scenes/SnowZone.unity
+    guid: 7ffe755b999e366449b647d7eb4a7bc1
+  - enabled: 1
+    path: Assets/Scenes/EndCutscene.unity
+    guid: 44b7ed9c91fadd742839392cd0a49a06
+  m_configObjects: {}
